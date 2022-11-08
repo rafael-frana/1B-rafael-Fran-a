@@ -1,34 +1,84 @@
-.lista {
-     color: red;
-     font-size:30;
+.minhalista {
+    color:whitesmoke;
+    font-size: 30;
 }
+
+#menu {
+    text-align: center;
+    font-size: 30px;
+}
+
+#lateral {
+    float: right;
+}
+
+.listas {
+    background: black;
+}
+
+.imagens {
+    text-align: center;
+    background: whitesmoke;
+}
+
+#cabecalho {
+    text-align: center;
+    background: greenyellow;
+    border-bottom-style: solid;
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-top: -8px;
+    padding: 1px;
+}
+
+.rodape {
+    text-align: center;
+    background: greenyellow;
+    border-top-style: solid;
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-bottom: -30px;
+    padding: 1px;
+}
+
+.lista {
+    color: whitesmoke;
+    font-size: 30;
+}
+
 #imagem {
     text-align: center;
+    border: 5px;
+    border-style: solid;
+    border-color: blue;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 570px;
+    margin-right: 570px;
 }
 
 #link {
     text-align: center;
 }
-    
+
 p {
-    color:red;
-    font-size:30;
-    text-align: right;
-    
+    color: red;
+    font-size: 30;
+
 }
-h1 { color:blue;
-     text-align: center;
-     font-size: 50
-     
+
+h1 {
+    color: blue;
+    text-align: center;
+    font-size: 50;
 }
+
 h2 {
-    color:green;
+    color: green;
     text-align: left;
     font-size: 40;
-    
-}
-.minhalista{
-         color:blue;
-         text-align:center;
-         font-size:30;
 }
